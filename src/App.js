@@ -15,7 +15,7 @@ function App() {
 
 
       {/* navbar */}
-      <Navbar />
+      <navbar/>
 
 
       {/* main page content */}
