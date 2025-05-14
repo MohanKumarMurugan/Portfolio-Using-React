@@ -10,6 +10,15 @@ import Skills from './containers/skills'
 function App() {
   return (
     <div className="App">
+
+      {/* particules.js */}
+
+
+      {/* navbar */}
+      <Navbar />
+
+
+      {/* main page content */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
